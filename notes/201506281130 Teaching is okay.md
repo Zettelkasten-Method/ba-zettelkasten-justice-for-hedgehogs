@@ -1,11 +1,5 @@
----
-title: 201506281130 Teaching is okay
-tags: [conflict, authenticity, value]
-created: '2015-06-28T09:23:33.000Z'
-modified: '2015-06-28T09:30:22.000Z'
----
-
 # 201506281130 Teaching is okay
+#conflict #authenticity #value
 
 If moral argument is possible with cultures that don't share your concepts and convictions, and if one way to solve the conflict is through education, it's only a matter of time before someone begins to shout "colonialism!"
 

@@ -1,11 +1,5 @@
----
-title: 201506211315 Compromise and dignity
-tags: [conflict, dignity, self-respect, compromise]
-created: '2015-06-21T11:12:35.000Z'
-modified: '2015-06-29T17:23:17.000Z'
----
-
 # 201506211315 Compromise and dignity
+#conflict #dignity #self-respect #compromise
 
 A compromise, as sketched by care ethics, can be translated to Dworkin's theory:
 

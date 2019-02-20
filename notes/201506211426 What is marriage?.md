@@ -1,11 +1,5 @@
----
-title: 201506211426 What is marriage?
-tags: [marriage, to-review]
-created: '2015-06-21T12:26:25.000Z'
-modified: '2015-06-21T12:27:34.000Z'
----
-
 # 201506211426 What is marriage?
+#marriage #to-review
 
 What is marriage?
 
@@ -52,4 +46,4 @@ Informally, even more so under circumstances of freely choosing a spouse, marria
 
 Brake, Elizabeth, "Marriage and Domestic Partnership", The Stanford Encyclopedia of Philosophy (Fall 2012 Edition), Edward N. Zalta (ed.), <http://plato.stanford.edu/archives/fall2012/entries/marriage/>.
 
-\[^singspouse\]: Although there are cultures which tolerate or even expect polygamy, for the sake of Nasser in Lebanon and Germany, it suffices to talk about monogamous marriage and having a single spouse only.
+[^singspouse]: Although there are cultures which tolerate or even expect polygamy, for the sake of Nasser in Lebanon and Germany, it suffices to talk about monogamous marriage and having a single spouse only.

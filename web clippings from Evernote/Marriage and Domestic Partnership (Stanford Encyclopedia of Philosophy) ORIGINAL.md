@@ -1,6 +1,5 @@
 ---
 title: Marriage and Domestic Partnership (Stanford Encyclopedia of Philosophy)
-attachments: [Untitled, Untitled (2), Untitled (3), Untitled (4), Untitled (5)]
 created: '2015-06-21T12:14:53.000Z'
 modified: '2015-06-21T12:14:53.000Z'
 ---

@@ -1,11 +1,5 @@
----
-title: 201506211238 Dignity is the foundation of a defense against inroads from parents
-tags: [intimacy, inroad, family, dignity, friendship]
-created: '2015-06-21T10:38:48.000Z'
-modified: '2015-06-21T10:41:45.000Z'
----
-
 # 201506211238 Dignity is the foundation of a defense against inroads from parents
+#intimacy #inroad #family #dignity #friendship
 
 Care ethics fits our intuition nicely: if the relationship is not one of mutual support, it is allowed to break with our parents. This seems to be quite a good rule of thumb, but it doesn't make breaking bonds operationizable: it doesn't provide criteria to decide whether the description applies to our case.
 

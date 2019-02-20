@@ -1,8 +1,5 @@
----
-tags: [to-review]
-created: '2015-06-12T07:25:00.000Z'
-modified: '2015-06-30T10:46:24.000Z'
----
+
+#to-review
 
 How much am I obliged to tolerate? How much unmoral behavior should I tolerate?
 
