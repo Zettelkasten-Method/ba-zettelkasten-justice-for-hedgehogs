@@ -7,8 +7,8 @@ Associations are risky relationships because they make us vulnerable for a speci
 
 It is permissive to be more vulnerable to some people when this vulnerability is met with a heightened concern for oneself. The other party should care. Without reciprocity, one's dignity is compromised in principle. Even when the other party inflicts no harm, her unilateral power over one's well-being is in conflict with the second principle of dignity, namely that we ourselves should take full responsibility for our lives.
 
-- §201503230933 2nd principle of dignity: Authenticity
-- §201506041035 Associations
-- §201506211107 Special obligations
+- [[201503230933]] 2nd principle of dignity: Authenticity
+- [[201506041035]] Associations
+- [[201506211107]] Special obligations
 
 [#dworkin2011just]: Ronald Dworkin (2011): _[Justice for hedgehogs](x-bdsk://dworkin2011just)_, Cambridge (Mass.), London: The Belknap Press of Harvard University Press.

@@ -7,4 +7,4 @@ Dworkin doesn't simply want to export western values to less developed countries
 
 There are strong moral concepts like "justice" which will need a lot of work to be taught if not present, and even more if conflicting concepts have to be discussed. There's nothing inherently wrong in teaching. We do it all the time. As soon as you enter an argument, you become a teacher of sorts: you argue in favor of your position, so under the governance of reason, the other party will have to learn to better defend or to change their mind. You teach your children. Teaching is part of authentic self-expression.
 
-- §201506260941 There can be moral argument between cultures
+- [[201506260941]] There can be moral argument between cultures

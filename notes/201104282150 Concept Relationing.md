@@ -9,9 +9,9 @@ Relationing
 
 : doesn't make a statement about truthiness of the knowledge, opposed to relativizing.[vgl 667][#mannheim1931wisss]
 
-Seinsverbundenheit §200905271907
+Seinsverbundenheit [[200905271907]]
 
-Relativizing §201210250918
+Relativizing [[201210250918]]
 
 When you are relationing, you look for the foundation of knowledge in its cultural-historical components. Something can still be true for the groups affected by that knowledge.
 

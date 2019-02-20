@@ -7,7 +7,7 @@ Dworkin applies this distinction to the value of a life. If someone lives a life
 
 In the same vein, product value doesn't matter to make the world a better place: more people don't equal a better world. The performance value of lives is highly unequal, so some lives lived were worth more than others.[205][#dworkin2011just]
 
-- Principle of self-respect §201503231003
-- Comprehensive outcome, §201302021448
+- Principle of self-respect [[201503231003]]
+- Comprehensive outcome, [[201302021448]]
 
 [#dworkin2011just]: Ronald Dworkin (2011): _[Justice for hedgehogs](x-bdsk://dworkin2011just)_, Cambridge (Mass.), London: The Belknap Press of Harvard University Press.

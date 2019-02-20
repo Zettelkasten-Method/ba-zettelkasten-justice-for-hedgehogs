@@ -6,5 +6,5 @@ In the case of severe mental illness, there's still a relationship of doctor or 
 
 In order to form associations with other people, I have to be able to take care of myself and to live a life in dignity. (Is she who suffers from severe mental illness not capable of living a life in dignity according to Scanlon?)
 
-- §201503240856 Responsibility equals psychological coherence and attribution to oneself
-- §201503230933 2nd principle of dignity: authenticity
+- [[201503240856]] Responsibility equals psychological coherence and attribution to oneself
+- [[201503230933]] 2nd principle of dignity: authenticity

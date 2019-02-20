@@ -5,7 +5,7 @@ We can understand responsibility for decisions and actions by looking what thing
 
 All conditions for living a successful life, which is an authentic life, can be found in mental states of a person. One would live a life without dignity if one would attribute responsibility to external causes exclusively.
 
-\- 201503230933 Re: Dignity, notes on Authentizität according to Dworkin
+- [[201503230933]] Re: Dignity, notes on Authentizität according to Dworkin
 
 The origin of a decision doesn't matter at all for its weight and value. Only the feeling of coherence counts. Decisions may be in part determined by external factors, but these cannot replace decisions themselves. 
 

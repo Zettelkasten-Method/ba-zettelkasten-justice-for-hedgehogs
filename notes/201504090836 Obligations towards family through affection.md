@@ -9,6 +9,6 @@ It's always a bad thing to break familial bonds, but sometimes it's necessary to
 
 Self-actualizarion has precedence over maintaining familial bonds. Manning wouldn't call it self-actualization of realizing one's dreams, but rather care for oneself.
 
-- §201504090830 Compromises are optional
+- [[201504090830]] Compromises are optional
 
 [#manning1992fem]: Rita C Manning (1992): _[Speaking from the heart. a feminist perspective on ethics](x-bdsk://manning1992fem)_, Lanham, Md: Rowman & Littlefield.

@@ -7,7 +7,7 @@ When two people recognize recurring actions as types of actions, and when this t
 
 Bundles of expectations of a social role which survive the test of time. It doesn't matter who is playing the role, it only matters that the expectations attached to that role are satisfied.
 
-- §200912060449 social role
+- [[200912060449]] social role
 
 Institutions are bound to expectations. They make orienting on role expectations reliable.[cf 104][#luhmann1971polplan]
 

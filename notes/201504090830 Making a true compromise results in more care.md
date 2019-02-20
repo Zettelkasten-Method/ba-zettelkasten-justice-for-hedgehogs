@@ -5,7 +5,7 @@ In care ethics, compromises are important: they're not the way out with the high
 
 When the best solution is the one which takes the interests of all parties involved into account, we have to make real compromises, sometimes, as opposed to making a compromise for the sake of making a compromise, or as an easier way out of a difficult situation. It's mor e important to take everyone's needs into account than making a compromise per se.[141][#manning1992fem]
 
-- §201504070954 Care ethics according to Manning
+- [[201504070954]] Care ethics according to Manning
 
 A compromise can deter from the best possible solution for the sake of feeling well: at least no one's feelings seem to be hurt. That's not a good motivation.
 
@@ -13,6 +13,6 @@ In a conflict, opening oneself up for the needs of the other party can result in
 
 It would work just as well to say that not taking a compromise into account simply violates the other party's dignity: you'd ignore their needs to make their life a successful one according to their terms. (Of course abstract concepts like dignity have no place in care ethics.)
 
-- §201506211315 Compromise and dignity
+- [[201506211315]] Compromise and dignity
 
 [#manning1992fem]: Rita C Manning (1992): _[Speaking from the heart. a feminist perspective on ethics](x-bdsk://manning1992fem)_, Lanham, Md: Rowman & Littlefield.
